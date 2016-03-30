@@ -4,7 +4,7 @@
 #
 Name     : rubygem-shellany
 Version  : 0.0.1
-Release  : 2
+Release  : 3
 URL      : https://rubygems.org/downloads/shellany-0.0.1.gem
 Source0  : https://rubygems.org/downloads/shellany-0.0.1.gem
 Summary  : No detailed summary available
@@ -68,36 +68,19 @@ popd
 
 %files
 %defattr(-,root,root,-)
-/usr/lib64/ruby/gems/2.2.0/cache/shellany-0.0.1.gem
-/usr/lib64/ruby/gems/2.2.0/doc/shellany-0.0.1/ri/Shellany/Sheller/_shellize_if_needed-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/shellany-0.0.1/ri/Shellany/Sheller/_system_with_capture-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/shellany-0.0.1/ri/Shellany/Sheller/_system_with_no_capture-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/shellany-0.0.1/ri/Shellany/Sheller/cdesc-Sheller.ri
-/usr/lib64/ruby/gems/2.2.0/doc/shellany-0.0.1/ri/Shellany/Sheller/new-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/shellany-0.0.1/ri/Shellany/Sheller/ok%3f-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/shellany-0.0.1/ri/Shellany/Sheller/ran%3f-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/shellany-0.0.1/ri/Shellany/Sheller/run-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/shellany-0.0.1/ri/Shellany/Sheller/run-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/shellany-0.0.1/ri/Shellany/Sheller/status-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/shellany-0.0.1/ri/Shellany/Sheller/stderr-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/shellany-0.0.1/ri/Shellany/Sheller/stderr-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/shellany-0.0.1/ri/Shellany/Sheller/stdout-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/shellany-0.0.1/ri/Shellany/Sheller/stdout-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/shellany-0.0.1/ri/Shellany/Sheller/system-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/shellany-0.0.1/ri/Shellany/cdesc-Shellany.ri
-/usr/lib64/ruby/gems/2.2.0/doc/shellany-0.0.1/ri/cache.ri
-/usr/lib64/ruby/gems/2.2.0/gems/shellany-0.0.1/.gitignore
-/usr/lib64/ruby/gems/2.2.0/gems/shellany-0.0.1/.rspec
-/usr/lib64/ruby/gems/2.2.0/gems/shellany-0.0.1/.travis.yml
-/usr/lib64/ruby/gems/2.2.0/gems/shellany-0.0.1/Gemfile
-/usr/lib64/ruby/gems/2.2.0/gems/shellany-0.0.1/LICENSE.txt
-/usr/lib64/ruby/gems/2.2.0/gems/shellany-0.0.1/README.md
-/usr/lib64/ruby/gems/2.2.0/gems/shellany-0.0.1/Rakefile
-/usr/lib64/ruby/gems/2.2.0/gems/shellany-0.0.1/lib/shellany.rb
-/usr/lib64/ruby/gems/2.2.0/gems/shellany-0.0.1/lib/shellany/sheller.rb
-/usr/lib64/ruby/gems/2.2.0/gems/shellany-0.0.1/lib/shellany/version.rb
-/usr/lib64/ruby/gems/2.2.0/gems/shellany-0.0.1/shellany.gemspec
-/usr/lib64/ruby/gems/2.2.0/gems/shellany-0.0.1/spec/lib/shellany/sheller_spec.rb
-/usr/lib64/ruby/gems/2.2.0/gems/shellany-0.0.1/spec/shellany_spec.rb
-/usr/lib64/ruby/gems/2.2.0/gems/shellany-0.0.1/spec/spec_helper.rb
-/usr/lib64/ruby/gems/2.2.0/specifications/shellany-0.0.1.gemspec
+/usr/lib64/ruby/gems/2.3.0/cache/shellany-0.0.1.gem
+/usr/lib64/ruby/gems/2.3.0/gems/shellany-0.0.1/.gitignore
+/usr/lib64/ruby/gems/2.3.0/gems/shellany-0.0.1/.rspec
+/usr/lib64/ruby/gems/2.3.0/gems/shellany-0.0.1/.travis.yml
+/usr/lib64/ruby/gems/2.3.0/gems/shellany-0.0.1/Gemfile
+/usr/lib64/ruby/gems/2.3.0/gems/shellany-0.0.1/LICENSE.txt
+/usr/lib64/ruby/gems/2.3.0/gems/shellany-0.0.1/README.md
+/usr/lib64/ruby/gems/2.3.0/gems/shellany-0.0.1/Rakefile
+/usr/lib64/ruby/gems/2.3.0/gems/shellany-0.0.1/lib/shellany.rb
+/usr/lib64/ruby/gems/2.3.0/gems/shellany-0.0.1/lib/shellany/sheller.rb
+/usr/lib64/ruby/gems/2.3.0/gems/shellany-0.0.1/lib/shellany/version.rb
+/usr/lib64/ruby/gems/2.3.0/gems/shellany-0.0.1/shellany.gemspec
+/usr/lib64/ruby/gems/2.3.0/gems/shellany-0.0.1/spec/lib/shellany/sheller_spec.rb
+/usr/lib64/ruby/gems/2.3.0/gems/shellany-0.0.1/spec/shellany_spec.rb
+/usr/lib64/ruby/gems/2.3.0/gems/shellany-0.0.1/spec/spec_helper.rb
+/usr/lib64/ruby/gems/2.3.0/specifications/shellany-0.0.1.gemspec
